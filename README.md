@@ -226,5 +226,4 @@ Thus, the lane detection pipeline is successfully implemented by completing the 
 
 ---
 
-* **Name:** Keerthana C
-* **Register No:** 212224220047
+
